@@ -1,4 +1,4 @@
-# ChainTrace Demo
+# Real Time Crypto Fraud Attribution System
 
 An interactive cryptocurrency investigation demo based on the ChainTrace architecture roadmap. All wallets, transfers, service labels, findings and watch events are synthetic.
 
